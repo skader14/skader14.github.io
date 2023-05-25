@@ -1,20 +1,26 @@
 nav {
-    display: block;
+    display: inline-block;
 }
 
 .header {
     text-align: center;
-    font: bold;
+    font-style: Helvetica;
 }
 
 .first-para {
     display: inline-block;
     background: rgb(100, 0, 0);
+    text-align: left;
 }
 
 .second-para {
-    display: inline-block;
+    display: block;
     background: rgb(47, 76, 104);
+    text-align: right;
+}
+
+.intro {
+    display: inline-block;
 }
 
 .college-logo {

@@ -1,0 +1,26 @@
+nav {
+    display: block;
+}
+
+.header {
+    text-align: center;
+    font: bold;
+}
+
+.first-para {
+    display: inline-block;
+    background: rgb(100, 0, 0);
+}
+
+.second-para {
+    display: inline-block;
+    background: rgb(47, 76, 104);
+}
+
+.college-logo {
+    width: 200px;
+}
+
+.emoji {
+    width: 300px;
+}

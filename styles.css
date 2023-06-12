@@ -1,33 +1,33 @@
-nav {
-    display: inline;
-    float: left;
-}
-
-.header {
-    text-align: center;
-    font-style: Helvetica;
-}
-
-.first-para {
-    display: inline-block;
-    background: rgb(100, 0, 0);
-    text-align: left;
-}
-
-.second-para {
+.nameplate {
     display: block;
-    background: rgb(47, 76, 104);
-    text-align: right;
+    font-family: "Georgia";
+    font-weight: 700;
+    background-color: #67b9e5;
+    color: white;
+    padding: 20px;
+    padding-top: 90px;
+    margin: auto;
+    margin-bottom: 0px;
+    border-radius: 0px 0px 50px 0px;
+    width: auto;
 }
 
-.intro {
-    display: inline-block;
+.navbar {
+    display: flex;
+    width: 500px;
 }
 
-.college-logo {
-    width: 200px;
+.navbartext {
+    padding: 20px;
+    margin-top: 0px;
+    background-color: #1C6EA4;
+    font-family: "Georgia";
+    font-weight: 60;
+    color: white;
+    border: none;
 }
 
-.emoji {
-    width: 300px;
+#rightmostnav {
+    margin-right: auto;
+    flex: auto;
 }
